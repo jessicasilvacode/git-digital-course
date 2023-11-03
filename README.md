@@ -4,7 +4,8 @@
 
 ### Aula de Git // Versionamento
 
-Aula 1 - 03 de nov:
-- aprender os comandos básicos do Git;
-- testar os comandos add, commit, status, diff, restore, log, push e pull;
-- fazer ramificações no código;
+Módulo 1 - 03 de nov:
+- [x] aprender os comandos básicos do Git;
+- [x] testar os comandos add, commit, status, diff, restore, log, rm, push e pull;
+- [x] fazer ramificações no código;
+- [x] dar merge no código.
