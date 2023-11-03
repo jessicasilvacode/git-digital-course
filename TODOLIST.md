@@ -1,3 +1,3 @@
-- [ ] dar merge no código
+- [x] dar merge no código
 - [ ] 
 - [ ]
